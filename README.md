@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph, a multimedia editor with a background in journalism
-- 👀 I’m interested in visual storytelling
+- 👀 I’m interested in visual storytelling https://www.ninjonglu.com/
 - 🌱 I’m currently looking to learn coding to increase my storytelling abilties.
 - 📫 How to reach me - ninjonglu@gmail.com | IG @ninjong_
 
