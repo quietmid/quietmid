@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joseph, a multimedia editor with a background in journalism
-- 👀 I’m interested in making videos! https://www.ninjonglu.com/
+- 👋 Hi, I’m Joseph, a student at Hive Helsinki learning software engineering.
 - 🌱 I’m currently looking to learn coding to increase my storytelling abilties.
+- 👀 I’m interested in making videos! https://www.ninjonglu.com/
 - 📫 How to reach me - ninjonglu@gmail.com | IG [@ninjong_](https://www.instagram.com/ninjong_/)
 
 <!---
