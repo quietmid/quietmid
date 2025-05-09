@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph (a human, not the pug in the picture), a student at Hive Helsinki studying software engineering @hiveheslinki.
+- 👋 Hi, I’m Joseph (a human, not the pug in the picture), a student at Hive Helsinki studying software engineering @hivehelsinki.
 - 👀 I’m also interested in making videos! https://ninjonglu.wixsite.com/ninjonglu/
 - 📫 How to reach me - ninjonglu@gmail.com | IG [@ninjong_]([https://www.instagram.com/ninjong_/])
 - P.S the pug, who i miss very much, is from my previous roommate.
